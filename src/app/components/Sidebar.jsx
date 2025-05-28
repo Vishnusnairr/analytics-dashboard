@@ -60,7 +60,7 @@ export default function Sidebar({ isOpen }) {
             className="w-8 h-8 rounded-full mr-3"
           />
           <div>
-            <p className="text-sm font-medium">Alex Johnson</p>
+            <p className="text-sm font-medium">Vishnu</p>
             <p className="text-xs text-gray-400">Admin</p>
           </div>
         </div>
